@@ -28,4 +28,4 @@ LootJS.modifiers(event => {
       // Default case
       item => item.addLoot('minecraft:diamond').applyFortuneBonus()
     );
-});
+}); 
